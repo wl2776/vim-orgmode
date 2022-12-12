@@ -516,7 +516,9 @@ Footnotes~
 
 ==============================================================================
 TABLES                                                         *orgguide-tables*
-  Not yet implemented in vim-orgmode~
+  Tables are not yet implemented in vim-orgmode. You might want to use
+  |vim-table-mode| plugin.
+      https://github.com/dhruvasagar/vim-table-mode
 
 ==============================================================================
 HYPERLINKS                                                 *orgguide-hyperlinks*
